@@ -9,7 +9,7 @@ To set all your machines to half intensity:
 
 1. Launch [Intiface :copyright: Central](https://intiface.com/central/) and connect your toys.
 1. Launch [ButtServer](https://github.com/MLTorches/ButtServer/releases/latest).
-3. Add this [NuGet](https://www.nuget.org/packages/BasicButtManager/) package to your project.
+3. Add this [NuGet](https://www.nuget.org/packages/ButtClient/) package to your project.
 4. Somewhere in your code...
 
 ```

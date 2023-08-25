@@ -5,11 +5,23 @@
   "files": [
     {
       "type": "Conceptual",
+      "source_relative_path": "docs/READMENugget.md",
+      "output": {
+        ".html": {
+          "relative_path": "READMENugget.html",
+          "hash": "QsU/Ne9V5Qvm93VVgqTqsJFnayFKJpeDgF1sQoyHGuY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "docs/index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "MeUZVA3PAaMee0+19OiVOPT/VT92GiM/DUvF433PudY="
+          "hash": "Ia1ZyqCrGjj+H5tP0A5bfqo3Cx9bE/1iIkVrchUcHbs="
         }
       },
       "is_incremental": false,
@@ -21,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/ButtClient.ButtClient.html",
-          "hash": "um0lRJImqRn86ZZMARr7/DnYALhMkV128d1kKrVNg9w="
+          "hash": "f6bZzAZBHB+ThTo6lD/BA9xXMWtYYWbI+b0VVGbKo00="
         }
       },
       "is_incremental": false,
@@ -88,7 +100,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 1,
+          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
